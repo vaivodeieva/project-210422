@@ -1,4 +1,5 @@
 import './App.css';
+import About from './Views/About';
 
 function App() {
   return (
