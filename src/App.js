@@ -2,6 +2,7 @@ import './App.css';
 import About from './Views/About';
 import Home from './Views/Home';
 import Header from './Components/Header';
+import Footer from './Components/Footer';
 
 function App() {
   return (
