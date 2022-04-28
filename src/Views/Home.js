@@ -1,3 +1,4 @@
+import '../Assets/CSS/Home.css';
 function Home() {
 
     return (
