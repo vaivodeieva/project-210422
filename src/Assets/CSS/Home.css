@@ -111,7 +111,7 @@
     margin: auto 100px;
     display: flex;
     flex-direction: column;
-    width: 100vw;
+    width: 70vw;
   }
   
   .left-section input {
@@ -154,7 +154,7 @@
   
   .right-section {
     height: calc(100vh - 73px);
-    width: 50vw;
+    width: 60vw;
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -264,3 +264,10 @@
     }
   }
   
+  .home-input {
+    border-radius: 30px;
+  }
+
+  .right-section img {
+    border-radius: 30px;
+  }

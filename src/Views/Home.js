@@ -7,8 +7,8 @@ function Home() {
             <section className="hero">
                 <div className="left-section">
                     <h1>Welcome to your<br />professional community</h1>
-                    <input type="text" name="input" placeholder="Email or phone number" />
-                    <input type="password" name="pass" placeholder="Password" />
+                    <input type="text" className='home-input' name="input" placeholder="Email or phone number" />
+                    <input type="password" className='home-input' name="pass" placeholder="Password" />
                     <a href="#">Forgot password?</a>
                     <input className="mainbtn" type="button" value="Sign in" />
                 </div>
