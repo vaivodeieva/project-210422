@@ -152,7 +152,6 @@
   }
   
   .right-section {
-    background-image: url("https://media.licdn.com/media//AAYQAgSrAAgAAQAAAAAAADCLr3coQt8AQiyj4giyWxfjsg.svg");
     height: calc(100vh - 73px);
     width: 50vw;
     background-size: cover;

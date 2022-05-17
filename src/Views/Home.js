@@ -1,4 +1,5 @@
 import '../Assets/CSS/Home.css';
+import laptop from '../Assets/Images/laptop1.jpg';
 function Home() {
 
     return (
@@ -12,7 +13,7 @@ function Home() {
                     <input className="mainbtn" type="button" value="Sign in" />
                 </div>
                 <div className="right-section">
-
+                   <img src={laptop}></img>
                 </div>
             </section>
         </div>
