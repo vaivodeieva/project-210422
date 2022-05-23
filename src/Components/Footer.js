@@ -1,7 +1,7 @@
 function Footer() {
 
     return (
-        <div>
+        <div className="footer-container">
             <div className="footer">
                 <div className="row">
                     <a href="#"><i className="fa fa-facebook"></i></a>
