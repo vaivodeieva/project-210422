@@ -1,3 +1,4 @@
+import '../Assets/CSS/Footer.css';
 function Footer() {
 
     return (
