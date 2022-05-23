@@ -22,7 +22,7 @@ function Footer() {
                 </div>
 
                 <div className="row">
-                    Copyright © 2022 IT SOLUTIONS || All rights reserved 
+                    © 2022 IT SOLUTIONS || All rights reserved 
                 </div>
             </div>
 
