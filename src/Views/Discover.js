@@ -1,3 +1,4 @@
+import '../Assets/CSS/Discover.css';
 function Discover() {
 
     return (
