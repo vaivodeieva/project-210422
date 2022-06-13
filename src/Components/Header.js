@@ -1,4 +1,20 @@
+import React from "react";
+import $ from 'jquery';
+
+
 function Header() {
+    $(function(){
+        // this will get the full URL at the address bar
+        let url = window.location.href; 
+    
+        // passes on every "a" tag 
+        $(".mainmenu .main-nav ul a li").each(function() {
+                // checks if its the same on the address bar
+            if(url === (this.href)) { 
+                $(this).closest("a li").addClass("active");
+            }
+        });
+    });
 
     return (
         <div>
