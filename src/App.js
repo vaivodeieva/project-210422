@@ -12,7 +12,7 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/tours" element={<Discover />} />
+          <Route path="/discover" element={<Discover />} />
         </Routes>
         <Footer />
       </Router>
