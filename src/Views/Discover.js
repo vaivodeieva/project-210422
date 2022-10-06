@@ -14,7 +14,6 @@ function Discover() {
         });
     }
 
-
     return (
         <div>
             <div className="gs-product-grid-view-outer-container">
